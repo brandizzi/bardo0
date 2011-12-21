@@ -1,0 +1,55 @@
+/*
+  march/bardo0.css
+  
+  A militarized stylesheet. :)
+  Author: Adam Victor Nazareth Brandizzi <brandizzi@gmail.com>
+*/
+
+body {
+  width: 600px;
+  margin-left: 1cm;
+  margin-top: 0.8cm;
+  font-family: Courier;
+}
+
+
+h1.sitetitle {
+  color: white;
+  font-size: 40px;
+  line-height: 200%;
+  padding: 0px;
+  padding-left: 10px;
+  background-image: url('imagens/march.png');
+}
+
+a {
+  color: rgb(40, 75, 40);
+}
+
+a:hover {
+  color: rgb(123, 143, 123);
+}
+
+ul.menu {
+  padding: 0px;
+  margin: 0px;
+  margin-left: 10px;
+  width: 20%;
+  float: left;
+  list-style: none;
+}
+
+div.container {
+  margin: 0px;
+}
+
+div.text {
+  background-color: white;
+  margin: 0px;
+  margin-left: 22%;
+  width: 78%;
+}
+
+h2,h3,h4,h5,h6,div.text h1 {
+  color: rgb(20,50,20);
+}
