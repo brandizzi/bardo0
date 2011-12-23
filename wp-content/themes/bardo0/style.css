@@ -11,14 +11,13 @@ Version: 0.1
 @import url("../sandbox/style.css");
 
 body { /* Cogitating changing the font. */
-  font-family: Verdana,Arial,Helvedica,Sans-Serif;
+  font-family: Helvetica,Verdana,Arial,Sans-Serif;
   font-size: 15px;
   width: 70%;
-  margin-left: 1.2cm;
-  margin-top: 0.8cm;
+  margin: 1.2cm auto 0 auto;
 }
 
-#nav-above {
+#nav-above, #nav-below {
     font-size: 85%;
     margin-bottom: -0.5em;
 }
@@ -59,9 +58,6 @@ h1 a, h2 a {
 }
 
 .sidebar, div#menu {
-  border-right-style: solid;
-  border-right-color: #5a5a5a;
-  border-right-width: 1px;
   width: 29%;
   list-style-type: none;
   line-height: 150%;
@@ -92,7 +88,7 @@ ul.xoxo li ul li {
 }
 
 .widgettitle {
-  font-size: 1em;
+  display: none;
 }
 
 .entry-content {  
