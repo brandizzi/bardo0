@@ -115,7 +115,43 @@ ul.xoxo li ul li {
 .post {
     position: relative;
 }
+
+div.comments ol li {
+    list-style-type: none;
+}
+div.comments ol {
+    padding-left: 0;
+}
+
+.comment-author {
+    width: 35%;
+    float: left;
+}
+
+.comment-author span {
+    vertical-align: top;
+}
+
+.comment-meta {
+    width: 65%;
+    margin-left:35%;
+    text-align: right;
+    font-size: 85%;
+}
+
+.comment-meta a:before{
+    display:block;
+}
+
+.comment p {
+    margin-top: 2em;
+}
 /* My own use */
+
+.poem {
+  margin: 0 auto 0 auto;
+}
+
 .stanza {
     margin-bottom: 2em;
 }
