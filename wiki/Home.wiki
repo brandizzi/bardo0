@@ -1,0 +1,7 @@
+Bardo0 is a Wordpress child theme based on [[http://www.plaintxt.org/#sandbox|Sandbox]]. Actually, it is no more than a style.css file and the result can be seen in one of my blogs, [[http://suspensao.blog.br/juizo|Suspensão do Juízo]].
+
+{{http://i.imgur.com/VEsVC.png|A screenshot}}
+
+The general appearance comes from a layout I created years ago (circa 2005) for a hypothetical, never-created personal page. I decided to use something like the old appearance. The original files are showed in the "bardo0-old" directory from the source.
+
+This lame name is justified by the fact that I was younger and sillier those days but, for a homage to my lamer self, I decided to maintain it. Also, as you may note, I thought I knew CSS. Remember, younger and sillier.
